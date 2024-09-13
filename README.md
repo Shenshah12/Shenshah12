@@ -1,27 +1,11 @@
-[## Hi there 👋
-
-<!--
-**Shenshah12/Shenshah12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7VLakGxXY3xoBe7Tn4yhk2mhhvZrfWLCV3HpZOvJcdVrXaYUR3pRrpFXb8IEEM_IxCTmQCSCAK2I_QedxEAxR8Y0mV418qCg-CRMctCB93CtJlU9ZpvNLvVEwXKYV0VN7ZOcubBVJeSw/s1600/2000_600px.gif
+![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7VLakGxXY3xoBe7Tn4yhk2mhhvZrfWLCV3HpZOvJcdVrXaYUR3pRrpFXb8IEEM_IxCTmQCSCAK2I_QedxEAxR8Y0mV418qCg-CRMctCB93CtJlU9ZpvNLvVEwXKYV0VN7ZOcubBVJeSw/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Muhammad Jahangir</h1>
 <h3 align="center">A passionate Developer from Pakistan</h3>
-https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966
+<img align ="right" alt= "Coding" width = "400" src = "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shenshah12&label=Profile%20views&color=0e75b6&style=flat" alt="shenshah12" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shenshah12" alt="shenshah12" /></a> </p>
+- 🔭 I’m currently working on a  **Cricket News Flutter App**
 
 - 🌱 I’m currently learning **PHP, Laravel**
 
@@ -46,4 +30,3 @@ https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846d
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shenshah12&show_icons=true&locale=en" alt="shenshah12" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shenshah12&" alt="shenshah12" /></p>
-)
